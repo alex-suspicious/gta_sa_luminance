@@ -1,25 +1,22 @@
-[
-	"game": 
-	[
-		"name": "Grand Theft Auto: San Andreas",
-		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grand_Theft_Auto_San_Andreas_logo.svg/2300px-Grand_Theft_Auto_San_Andreas_logo.svg.png",
-		"backgrounds": 
-			[
-				"https://images5.alphacoders.com/596/596248.jpg",
-				"https://external-preview.redd.it/XK8BJagMMJaUDRUCdR8oYpnwo_LMjIHoD440AReoKUQ.jpg?auto=webp&s=12fe7e2bac8caa0bb197a5304354e73235e7073e",
-				"https://wallpapercosmos.com/w/full/3/3/e/28-3840x2160-desktop-4k-grand-theft-auto-san-andreas-wallpaper.jpg",
-				"https://4kwallpapers.com/images/wallpapers/grand-theft-auto-3840x2160-10703.jpg"
-			]
-	],
-	"screenshots": 
-	[
-		"https://i.imgur.com/kh5ol8z.png",
-		"https://i.imgur.com/geBNycQ.png",
-		"https://i.imgur.com/OW9vzB7.png",
-		"https://i.imgur.com/IEH3WTt.png",
-		"https://i.imgur.com/LE0lGsh.png"
-	],
-	"version": "0.0.1",
-	"compatibility": "60",
-	"arguments": ""
-]
+{
+    "game": {
+        "name": "Grand Theft Auto: San Andreas",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grand_Theft_Auto_San_Andreas_logo.svg/2300px-Grand_Theft_Auto_San_Andreas_logo.svg.png",
+        "backgrounds": [
+            "https://images5.alphacoders.com/596/596248.jpg",
+            "https://external-preview.redd.it/XK8BJagMMJaUDRUCdR8oYpnwo_LMjIHoD440AReoKUQ.jpg?auto=webp&s=12fe7e2bac8caa0bb197a5304354e73235e7073e",
+            "https://wallpapercosmos.com/w/full/3/3/e/28-3840x2160-desktop-4k-grand-theft-auto-san-andreas-wallpaper.jpg",
+            "https://4kwallpapers.com/images/wallpapers/grand-theft-auto-3840x2160-10703.jpg"
+        ]
+    },
+    "screenshots": [
+        "https://i.imgur.com/kh5ol8z.png",
+        "https://i.imgur.com/geBNycQ.png",
+        "https://i.imgur.com/OW9vzB7.png",
+        "https://i.imgur.com/IEH3WTt.png",
+        "https://i.imgur.com/LE0lGsh.png"
+    ],
+    "version": "0.0.1",
+    "compatibility": "60",
+    "arguments": ""
+}
