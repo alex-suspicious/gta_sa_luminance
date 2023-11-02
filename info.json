@@ -20,5 +20,6 @@
 		"https://i.imgur.com/LE0lGsh.png"
 	],
 	"version": "0.0.1",
-	"compatability": "60"
+	"compatibility": "60",
+	"arguments": ""
 ]
